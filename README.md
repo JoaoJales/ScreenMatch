@@ -1,7 +1,3 @@
-Aqui está um **README unificado** que resume todos os seus projetos do *ScreenMatch*, destacando que fazem parte da **Formação Java da Alura**. Você pode ajustar o nome do repositório principal se quiser:
-
----
-
 # ScreenMatch - Projetos da Formação Java (Alura)
 
 Este repositório reúne os projetos desenvolvidos ao longo da **Formação Java** da [Alura](https://www.alura.com.br), abordando desde conceitos básicos de Java até o desenvolvimento de uma API REST conectada ao front-end.
